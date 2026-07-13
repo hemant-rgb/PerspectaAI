@@ -1,0 +1,4 @@
+Content_Path: /Content_Data
+Style_Path: /Style_Data
+Output_Path: /Output
+vgg: /vgg_normalized.pth
