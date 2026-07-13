@@ -55,22 +55,6 @@ The project is built using:
 
 ---
 
-# 🖼 Demo
-
-## Input
-
-| Content Image | Style Image |
-|---------------|-------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-↓
-
-## Output
-
-*(Add Stylized Output Image Here)*
-
----
-
 # 🧠 What is Neural Style Transfer?
 
 Neural Style Transfer is a Deep Learning technique that combines:
