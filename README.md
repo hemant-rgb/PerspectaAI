@@ -531,14 +531,6 @@ Maximum Style
 
 ---
 
-# 📈 Results
-
-| Content | Style | Output |
-|----------|---------|---------|
-| *(Add Image)* | *(Add Image)* | *(Add Image)* |
-
----
-
 # 📖 References
 
 1. Huang, X., & Belongie, S. (2017). *Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.*
@@ -557,8 +549,6 @@ Maximum Style
 
 B.Tech Mathematics & Computing  
 National Institute of Technology Hamirpur
-
-GitHub: https://github.com/yourusername
 
 ---
 
