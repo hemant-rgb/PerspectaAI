@@ -73,17 +73,17 @@ Example
 <tr>
 <td align="center">
 <b>Content Image</b><br><br>
-<img src="examples/actor.jpeg" width="250">
+<img src="static/uploads/7c7149e6-ced7-4d12-8520-6583bec72aa9.jpg" width="250">
 </td>
 
 <td align="center">
 <b>Style Image</b><br><br>
-<img src="examples/texture.jpeg" width="250">
+<img src="static/uploads/03d1f853-4dd5-457c-9c56-acab9c20c422.jpg" width="250">
 </td>
 
 <td align="center">
 <b>Stylized Output</b><br><br>
-<img src="examples/stylized_3830d09a-1ebb-4246-85e2-42ff383a1661.jpg" width="250">
+<img src="static/uploads/stylized_7c7149e6-ced7-4d12-8520-6583bec72aa9.jpg" width="250">
 </td>
 </tr>
 </table>
