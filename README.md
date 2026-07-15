@@ -67,13 +67,26 @@ to generate a completely new artistic image.
 Example
 
 
-Content Image
-![Demo](examples/actor.jpeg)
-       +
-Style Image
-       ↓
-Stylized Image
+## 🎨 Style Transfer Example
 
+<table align="center">
+<tr>
+<td align="center">
+<b>Content Image</b><br><br>
+<img src="examples/actor.jpeg" width="250">
+</td>
+
+<td align="center">
+<b>Style Image</b><br><br>
+<img src="examples/texture.jpeg" width="250">
+</td>
+
+<td align="center">
+<b>Stylized Output</b><br><br>
+<img src="examples/stylized_3830d09a-1ebb-4246-85e2-42ff383a1661.jpg" width="250">
+</td>
+</tr>
+</table>
 
 Unlike traditional image filters, Neural Style Transfer understands high-level image representations learned by convolutional neural networks.
 
