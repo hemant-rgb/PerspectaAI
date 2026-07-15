@@ -66,13 +66,14 @@ to generate a completely new artistic image.
 
 Example
 
-```
+
 Content Image
+![Demo](examples/actor.jpeg)
        +
 Style Image
        ↓
 Stylized Image
-```
+
 
 Unlike traditional image filters, Neural Style Transfer understands high-level image representations learned by convolutional neural networks.
 
