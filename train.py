@@ -56,10 +56,10 @@ def parse_arguments():
     parser.add_argument('--resume', action='store_true', default=False,
                         help='Resume training')
     
-    parser.add_argument('--decoder_path', type=str, default=None,
+    parser.add_argument('--decoder_path', type=str, default='experiment/big_dataset/best_decoder.pth',
                         help='Path to decoder checkpoint')
     
-    parser.add_argument('--optimizer_path', type=str, default=None,
+    parser.add_argument('--optimizer_path', type=str, default='experiment/big_dataset/best_optimizer.pth',
                         help='Path to optimizer checkpoint')
     
 

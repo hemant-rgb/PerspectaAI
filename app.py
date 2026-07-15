@@ -42,7 +42,7 @@ class UploadForm(FlaskForm):
     
 encoder = VGGEncoder('vgg_normalised.pth').to(device)
 decoder = Decoder().to(device)
-decoder.load_state_dict(torch.load('experiment/big_dataset/decoder_10.pth', map_location=device))
+decoder.load_state_dict(torch.load('experiment/big_dataset/best_decoder.pth', map_location=device))
 
 encoder.eval()
 decoder.eval()
